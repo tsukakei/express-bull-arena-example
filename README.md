@@ -5,6 +5,7 @@ This is an example code of express and bull (also, bull-arena).
 - jobs.js: Example for bull's job enqueuing.
 
 *How to use*
+
 _You have to run redis at 127.0.0.1 on port 6379._
 
 ```
