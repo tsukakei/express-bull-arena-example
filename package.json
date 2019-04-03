@@ -1,0 +1,25 @@
+{
+  "name": "express-bull-arena-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "bull": "^3.7.0",
+    "bull-arena": "^2.6.2",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsukakei/express-bull-arena-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsukakei/express-bull-arena-example/issues"
+  },
+  "homepage": "https://github.com/tsukakei/express-bull-arena-example#readme"
+}
